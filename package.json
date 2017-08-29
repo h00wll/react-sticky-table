@@ -66,6 +66,7 @@
     "babel-runtime": "^6.6.1",
     "element-resize-event": "^2.0.7",
     "nodeproxy": "^1.0.0",
+    "prop-types": "^15.5.10",
     "underscore": "^1.8.3"
   }
 }
